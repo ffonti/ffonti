@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ffonti&label=Profile%20views&color=0e75b6&style=flat" alt="ffonti" /> </p>
 
-- 🌱 I’m currently learning **Leaflet, React**
+- 🌱 I’m currently learning **Leaflet** and **React**
 
 - 📚 I'm currently studying at [Politecnico di Milano](https://www.polimi.it/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ffonti](https://github.com/ffonti)
+- 👨‍💻 All of my projects are available at [Fabrizio's repos](https://github.com/ffonti?tab=repositories)
 
-- 💬 Ask me about **Angular, Node**
+- 💬 Ask me about **Angular** and **Node**
 
 - 📫 How to reach me: **fabriziofontana02@gmail.com**
 
