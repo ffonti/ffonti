@@ -2,15 +2,13 @@
 <h3 align="center">A passionate front-end developer from Italy 🇮🇹</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
-
-- 🌱 I’m currently learning **Leaflet** and **React**
-
 - 📚 I'm currently studying at [Politecnico di Milano](https://www.polimi.it/)
 
 - 👨‍💻 All of my projects are available at [Fabrizio's repos](https://github.com/ffonti?tab=repositories)
 
 - 💬 Ask me about **Angular** and **Node**
+
+- 🌱 I’m currently learning **Leaflet** and **React**
 
 - 📫 How to reach me: **fabriziofontana02@gmail.com**
 
