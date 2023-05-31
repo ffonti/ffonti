@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Angular** and **Node**
 
-- 🌱 I’m currently learning **Leaflet** and **React**
+- 🌱 I’m currently learning **React** and **Redux**
 
 - 📫 How to reach me: **fabriziofontana02@gmail.com**
 
