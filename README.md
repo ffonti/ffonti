@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [Fabrizio's repos](https://github.com/ffonti?tab=repositories)
 
-- 💬 Ask me about **Angular** and **Node**
+- 💬 Ask me about **Angular** and **Node.js**
 
-- 🌱 I’m currently learning **React** and **Redux**
+- 🌱 I’m currently learning **React** and **Spring Framework**
 
 - 📫 How to reach me: **fabriziofontana02@gmail.com**
 
