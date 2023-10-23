@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Fabrizio's repos](https://github.com/ffonti?tab=repositories)
 
-- 💬 Ask me about **Angular** and **Node.js**
+- 💬 Ask me about **Angular** and **Node**
 
 - 🌱 I’m currently learning **Unity** and **Spring Framework**
 
