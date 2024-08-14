@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Angular** and **Node.js**
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me: **fabriziofontana02@gmail.com**
 
