@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Fabrizio 👋</h1>
-<h3 align="center">A passionate software engineer from Italy 🇮🇹</h3>
+<h3 align="center">A passionate engineer from Italy 🇮🇹</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📚 I'm currently studying at [Politecnico di Milano](https://www.polimi.it/)
 
 - 👨‍💻 All of my projects are available at [Fabrizio's repos](https://github.com/ffonti?tab=repositories)
 
-- 💬 Ask me about **Angular** and **Node.js**
+- 💬 Ask me about **Python** and **AI**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Databricks**
 
 - 📫 How to reach me: **fabriziofontana02@gmail.com**
 
