@@ -161,6 +161,4 @@
 ## 📊 GitHub Stats
 
 ![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ffonti&show_icons=true&theme=tokyonight)
-![streak](https://streak-stats.demolab.com?user=ffonti&theme=tokyonight)
-![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ffonti&theme=tokyonight&layout=compact)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ffonti&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
