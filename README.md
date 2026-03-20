@@ -158,7 +158,7 @@
 
 </p>
 
-## 📊 GitHub Stats
+<h3 align="left">GitHub stats:</h3>
 
 ![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ffonti&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ffonti&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
